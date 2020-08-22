@@ -14,5 +14,9 @@ Here is the results of the analysis
 4.	Rural cities had the highest average fares per ride at $34.62. The Suburban cities had an average fare per ride at $30.97. Urban cities had the lowest average fare per ride at $24.53.
 5.	The Rural cities had the highest average fares per driver at $55.49.  The Suburban cities who had an average fare of $39.50 per driver. The Urban cities had the lowest average fares per driver at $16.57.
 
+https://user-images.githubusercontent.com/67720719/90944561-7d781f00-e3ed-11ea-8970-2e0a778c9b96.png
 
 The line chart shows total fares by city types. It shows data from January 1, 2019 through April 29, 2019. The line graph shows that their small increase in fares in February. The chart shows that the Urban market earns the highest fare. The suburban earned the next highest amount of fare. Lastly the Rural earned the least amount of fares.
+
+https://github.com/jmajma327/Pyber_Analysis/blob/master/Resources/Total_Fare_by_City_Type.png?raw=true
+
