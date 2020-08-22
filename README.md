@@ -21,3 +21,10 @@ The line chart shows total fares by city types. It shows data from January 1, 20
 ![](https://github.com/jmajma327/Pyber_Analysis/blob/master/Resources/Total_Fare_by_City_Type.png?raw=true)
 
 ## Summary
+1.Our summary shows that the most profitable city type is Urban cities. The Urban cities generated the most total fares.  It had 1,625 total rides and counted 2,405 drivers. This occurrence could be because there are more people and traffic in these areas which will generate more rides and fares. I recommend the Pyber expand in Urban cities because of the volume of riders.
+
+2.Rural cities had the lowest number of total rides and amount of drivers. Rural cities did not get much revenue. This occurrence is due to lack of people in rural cities which mean less fares. I recommend the Pyber not expand in rural cities because of the lack of riders. 
+
+3.The analysis only showed data for a few month in the fare by city types. It would be beneficial if Pyber looked at data over the year instead of a few months this will let them see what months they make the most fares. They could then increase their ads to increase their profit and fares. 
+
+
