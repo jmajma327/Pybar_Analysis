@@ -20,3 +20,4 @@ The line chart shows total fares by city types. It shows data from January 1, 20
 
 https://github.com/jmajma327/Pyber_Analysis/blob/master/Resources/Total_Fare_by_City_Type.png?raw=true
 
+## Summary
